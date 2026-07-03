@@ -1,6 +1,6 @@
 # ModelBound — Cursor plugin
 
-[![ModelBound Skill Trust](https://modelbound.co/api/badge/skills.svg?repo=ModelBound/modelbound-cursor-plugin)](https://modelbound.co/connect/github-actions)
+[![ModelBound Skill Trust](https://modelbound.co/api/badge/skills.svg?repo=ModelBound/modelbound-cursor-plugin)](https://modelbound.co/connect/github-actions?repo=ModelBound/modelbound-cursor-plugin)
 
 Audit Agent Skills for trust, token budget, duplicates, and tool-surface risk — without leaving Cursor. Run the Skill Development Pipeline, Trust & Safety findings, and manage skill versions directly from your editor.
 
