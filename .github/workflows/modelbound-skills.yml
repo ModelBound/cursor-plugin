@@ -18,5 +18,9 @@ jobs:
       - uses: ModelBound/skill-check-action@v1.0.3
         with:
           mode: full
+          scan-all-on-main: true
+          skills-glob: |
+            skills/**/SKILL.md
+            .cursor/rules/**/*.mdc
         env:
           MODELBOUND_API_KEY: ${{ secrets.MODELBOUND_API_KEY }}
